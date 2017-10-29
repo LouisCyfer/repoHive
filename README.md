@@ -11,6 +11,7 @@ We also have a [blog](https://cubesoutside.wordpress.com/) on wordpress.com wher
 The following list below contains a collection of all current projects from me and teamwork with others, indending this page to be an indexing page.
 
 - [ThinkOutsideTheCubicle](https://github.com/ThinkOutsideTheCubicle) team projects
+  - [SLM Browser](https://github.com/ThinkOutsideTheCubicle/SLMBrowser) search things in the Second Life® Marketplace
   - [Path-of-Mine](https://github.com/ThinkOutsideTheCubicle/Path-of-Mine) 2D game - WIP (in development)
   - [FasterWords](https://github.com/ThinkOutsideTheCubicle/FasterWords) based on the german game "Stadt, Land, Fluss" (City, Country, River) and is (yet) WIP.
 
